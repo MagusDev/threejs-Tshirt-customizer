@@ -1,8 +1,11 @@
-# React + Vite
+# Three js T-shirt customizer Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is made with React + threejs + tailwind
 
-Currently, two official plugins are available:
+It also uses huggingface stable diffusion 1.5 model as backend for AI generated images
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+featuers:
+- 3D rendered T-shirt model(using threejs)
+- Custom Base color picking
+- Custom Logo and texture via file uploading
+- AI generated logos amnd textures(512x512) via stable diffusion 1.5
