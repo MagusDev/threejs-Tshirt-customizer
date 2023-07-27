@@ -11,7 +11,7 @@ featuers:
 - 3D rendered T-shirt model(using threejs)
 - Custom  color picking
 - Custom Logo and texture via file uploading
-- AI generated logos amnd textures(512x512) via stable diffusion 1.5
+- AI generated logos and textures(512x512) via stable diffusion 1.5
 
 ### note:
 In order to use the AI image generator you must add your own huggingface API key in "client/src/config/api.js"
