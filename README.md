@@ -1,4 +1,4 @@
-Threejs T-shirt customizer Project
+# Threejs T-shirt customizer Project
 This project is made with React js + threejs + tailwind
 
 It also uses huggingface stable diffusion 1.5 model as backend for AI generated images
