@@ -1,3 +1,3 @@
-const Api = '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'
+const Api = 'Your huggingface API key'
 
 export default Api
