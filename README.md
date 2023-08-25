@@ -13,5 +13,7 @@ featuers:
 - Custom Logo and texture via file uploading
 - AI generated logos and textures(512x512) via stable diffusion 1.5
 
+## You can view the deployed website at https://magusdev-tshirt-customizer.netlify.app
+
 ### note:
 In order to use the AI image generator you must add your own huggingface API key in "client/src/config/api.js"
